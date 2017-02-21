@@ -1,0 +1,1 @@
+Практикуемся по книжке ["Стек MEAN. Mongo, Express, Angular, Node"](https://www.piter.com/collection/new/product/stek-mean-mongo-express-angular-node).
