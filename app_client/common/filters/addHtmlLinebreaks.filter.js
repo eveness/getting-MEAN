@@ -2,9 +2,9 @@
 
   angular
     .module('loc8rApp')
-    .filter('addHtmlLineBreaks', addHtmlLineBreaks);
+    .filter('addHtmlLinebreaks', addHtmlLinebreaks);
 
-  function addHtmlLineBreaks () {
+  function addHtmlLinebreaks() {
     return function (text) {
       var output = text.replace(/\n/g, '<br/>');
       return output;
