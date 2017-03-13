@@ -41,4 +41,5 @@ process.on('SIGTERM', function() {
     });
 });
 
-var mongoose = require('./locations');
+require('./locations');
+require('./users');
